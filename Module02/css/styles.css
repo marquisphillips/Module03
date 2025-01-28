@@ -37,6 +37,7 @@ h1 {
     font-size: 40px;
     font-weight: bold;
     margin-top: 20px;
+    padding-left: 10px;
 }
 
 h2 {
@@ -76,4 +77,9 @@ footer {
     margin-top: 20px;
     border-top: 1px solid #878787;
     padding-top: 5px;
+}
+
+footer a {
+    color: #cfcfd0;
+    text-decoration: none;
 }
